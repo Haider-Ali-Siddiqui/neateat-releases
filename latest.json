@@ -1,6 +1,7 @@
 {
-  "versionCode": 11,
+  "versionCode": 12,
   "versionName": "0.1",
-  "apkUrl": "https://raw.githubusercontent.com/Haider-Ali-Siddiqui/neateat-releases/main/MealPlanner-v0.1.apk",
+  "apkUrl": "https://raw.githubusercontent.com/Haider-Ali-Siddiqui/neateat-releases/main/MealPlanner-v12.apk",
+  "sha256": "4918b0c54e5bdd697fbec5bfda5aef2e41b4512143b83deb9224b75cc055d421",
   "notes": ""
 }
